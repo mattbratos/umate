@@ -6,25 +6,26 @@ I couldn't stand using terrible university software from 20 years ago. To naviga
 
 ## 🤓 What I've Learned
 
-- **UX/UI Design**:
+**UX/UI Design**:
 
-  - Completed Google's UX/UI bootcamp to learn design.
-  - Gained skills in wireframes, prototyping, and mockups.
+- Completed Google's UX/UI bootcamp to learn design.
+- Gained skills in wireframes, prototyping, and mockups.
 
-- **Product Management**:
+**Product Management**:
 
-  - For the first time, led a team of 5 people and applied my skills from Google's Project Management Bootcamp.
+- For the first time, led a team of 5 people and applied my skills from Google's Project Management Bootcamp.
 
-- **Scrum**:
+**Scrum**:
 
-  - Led my first scrum team, facilitated scrum ceremonies, and managed the project backlog.
+- Led my first scrum team, facilitated scrum ceremonies, and managed the project backlog.
 
-- **Design Sprint Methodology**:
+**Design Sprint Methodology**:
 
-  - Led my first design sprint and taught this methodology to 4 other team members.
+- Led my first design sprint and taught this methodology to 4 other team members.
 
-- **Pitching**:
-  - Pitched the project over 100 times to various audiences in very different circumstances (from an official event to a house party), which taught me how to focus on what's important to gain buy-in from different stakeholders and really made me enjoy public speaking.
+**Pitching**:
+
+- Pitched the project over 100 times to various audiences in very different circumstances (from an official event to a house party), which taught me how to focus on what's important to gain buy-in from different stakeholders and really made me enjoy public speaking.
 
 ## 📺 Things We've Done
 
