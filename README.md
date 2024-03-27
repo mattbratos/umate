@@ -20,13 +20,20 @@ I couldn't stand using terrible university software from 20 years ago. To naviga
 
 ## 📺 Things We've Done
 
-1. **User Research**: [Watch the video on YouTube](#https://studio.youtube.com/video/3utjOkJ-lpw/edit)
-2. **Pitch at University Event**: [Watch the video](#https://youtu.be/eUs8ZzDEOb8)
+1. **User Research**: [Watch the video on YouTube](https://www.youtube.com/watch?v=3utjOkJ-lpw)
+2. **Pitch at University Event**: [Watch the video](https://youtu.be/eUs8ZzDEOb8)
 3. **Design Sprint**:
+   <details>
+   <summary>View Design Sprint Photos</summary>
+
    ![Design Sprint 1](/assets/design_sprint_1.png)
    ![Design Sprint 2](/assets/design_sprint_2.png)
    ![Design Sprint 3](/assets/design_sprint_3.png)
-4. **Hi-Fi Interactive Prototype in Figma**: [View the Prototype](#https://www.youtube.com/watch?v=FAkZcEXgzjU)
+
+   </details>
+
+4. **Hi-Fi Interactive Prototype in Figma**: [View the Prototype](https://www.youtube.com/watch?v=FAkZcEXgzjU)
+
 5. **Meeting with University**: Very harsh rejection after 6 months of promissing support and post-poding a final meeting. Quote: "You are not getting this deal, don't send us anymore questions, don't ask for requiremnts and don't talk to us anymore, bye"
 
 ## 💡 Lessons Learned
