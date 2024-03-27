@@ -1,6 +1,6 @@
-# UMate Project README
+# 🎓 UMate
 
-## 🚀 About UMate
+## 🚀 About
 
 I couldn't stand using terrible university software from 20 years ago. To navigate our uni, we had to use 13 different apps, and every one of them was unusable. So, I decided to create one "Student Life OS". I also think it's a terrible waste that universities don't collect vast amounts of data about student satisfaction, engagement, and all sorts of very valuable insights with their scale and financial capabilities.
 
